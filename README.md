@@ -8,4 +8,4 @@ nginx-rtmp 流媒体服务器
 - 在播放器上面的地址输入hls播放地址  http://localhost:8080/hls/t1/index.m3u8
 - 点击播放按钮，就能看到播放效果了。
 # 效果
-![https://github.com/wshmaple/nginx-rtmp/blob/master/nginx1.gif]
+![效果图片](https://github.com/wshmaple/nginx-rtmp/blob/master/nginx1.gif)
