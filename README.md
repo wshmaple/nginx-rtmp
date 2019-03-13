@@ -25,10 +25,10 @@ https://github.com/wshmaple/nginx-rtmp/blob/master/nginx1.gif
 ![](https://github.com/wshmaple/nginx-rtmp/blob/master/nginx1.gif)
 #可用的网络地址
 
-湖南卫视  rtmp://58.200.131.2:1935/livetv/hunantv
-美国中文电视,rtmp://media3.sinovision.net:1935/live/livestream
-美国1,rtmp://ns8.indexforce.com/home/mystream
-CCTV6高清：http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-CCTV5+高清：http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV3高清：http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-CCTV1高清：http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+- 湖南卫视  rtmp://58.200.131.2:1935/livetv/hunantv
+- 美国中文电视,rtmp://media3.sinovision.net:1935/live/livestream
+- 美国1,rtmp://ns8.indexforce.com/home/mystream
+- CCTV6高清：http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+- CCTV5+高清：http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+- CCTV3高清：http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+- CCTV1高清：http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
